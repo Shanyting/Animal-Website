@@ -1,0 +1,11 @@
+547fb3b01fd52d087909d4931591c70dc5f28ccf (HEAD -> master, origin/master) Finishing touches to website
+56bf5b07fbc3c16381fcb26ff144fca4c3542c0a Add line spacing, titles, and citations to all files
+1270013ca87ae8a2f2378587f4a22cf6542cc2d1 Add fun facts and a video to dog file
+c8bd48ec2a4c1711c1cfa6895e5705161625da51 Add Summary and Other to popular_dog_breeds file
+b74535f2da1c1c498ba34b2ae89139c73b43e09d Add info to Labrador Retriever Breed
+5090ece9819c6d8af9f59807f9dcbe72a8a7c568 Add pictures to popular_dog_breeds file
+154fc459817d3fd17583fa926a0e17052ab50816 Add 20_rarest_dog_breeds.html file
+bca279fadfa9c732f9557cb22faa8882b11691c0 Add table of Ranking and Dog Breeds
+b3fbb8800fe176baf664f1d5b827f8379cf70d38 Modify 1 popular_dogs_breeds file
+760ef37eb918ebaeedcdbd8d7e23c03b55267e8d Add popular_dog_breeds file
+f5d053b403181e32a2b827922d9695ddcecdb3d8 Initial commit
